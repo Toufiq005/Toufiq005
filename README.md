@@ -1,16 +1,14 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Toufiq Mowla</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Fullstac developer and Ai enthusiastic from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiq005&label=Profile%20views&color=0e75b6&style=flat" alt="toufiq005" /> </p>
 
-- 🔭 I’m currently working at [loyalcoder](https://loyalcoder.com/)
+- 🔭 I’m currently working at [E-seba](https://toufiq-mowla.vercel.app/)
 
-- 🌱 I’m currently learning **Typescript, Next js**
+- 💬 Ask me about **TypeScript, Nextjs, LangChain, LangGraph**
 
-- 💬 Ask me about **React, Javascript**
-
-- 📫 How to reach me **developermowla@gmail.com**
+- 📫 How to reach me **toufiq.mowla19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
